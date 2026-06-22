@@ -1,0 +1,8 @@
+train:
+  - D:/001/xy平台项目 最终版/xy平台项目/training/generated_dataset_red_acceptance_neg4_20260612/images/train
+  - D:/001/xy平台项目 最终版/xy平台项目/training/generated_dataset_camera_20260618_v2/images/train
+val: D:/001/xy平台项目 最终版/xy平台项目/training/generated_dataset_camera_20260618_v2/images/val
+test: D:/001/xy平台项目 最终版/xy平台项目/training/generated_dataset_camera_20260618_v2/images/test
+names:
+  0: red_cap
+  1: cestbon_cap

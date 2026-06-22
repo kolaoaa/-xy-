@@ -1,0 +1,7 @@
+path: D:/001/xy平台项目 最终版/xy平台项目/training/generated_dataset_camera_20260618
+train: images/train
+val: images/test
+test: images/test
+names:
+  0: red_cap
+  1: cestbon_cap

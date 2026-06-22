@@ -1,0 +1,6 @@
+pyserial>=3.5
+PyQt5>=5.15.0
+matplotlib>=3.3.0
+numpy>=1.23.5
+opencv-python>=4.8.0
+ultralytics>=8.0.0

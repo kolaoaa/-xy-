@@ -1,0 +1,6 @@
+path: training/generated_dataset_red_acceptance_neg4_20260612
+train: images/train
+val: images/val
+names:
+  0: red_cap
+  1: cestbon_cap
